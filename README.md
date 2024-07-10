@@ -1,9 +1,9 @@
 Current Technology
-![image](https://github.com/Talk2David1/IBM_Data_Analysis_Assignment-Dashboards/assets/107730513/b60cb456-ec88-4dbb-802c-6ef673be36bc)
+![image](https://drive.google.com/file/d/1PYPJ8n80eYNvgDjcv08iw6_aTicy9S1-/view?usp=drive_link)
 Future Technology
-![image](https://github.com/Talk2David1/IBM_Data_Analysis_Assignment-Dashboards/assets/107730513/aadfc707-2845-4df5-856d-836b5a026a8f)
+![image](https://drive.google.com/file/d/1RW2Gk7xdtgsRuzrfGEc6FQG6s3-ZOG-H/view?usp=drive_link)
 Demographics
-![image](https://github.com/Talk2David1/IBM_Data_Analysis_Assignment-Dashboards/assets/107730513/9ed5b597-a6e0-440e-83b2-b7e2f91fb271)
+![image](https://drive.google.com/file/d/1geIEqeTj8dCu-sqaEdbd2J-i9zO5WayW/view?usp=drive_link)
 
 # Data-Analyst-Capstone-Project-IBM
 IBM Data Analyst Professional Capstone project
