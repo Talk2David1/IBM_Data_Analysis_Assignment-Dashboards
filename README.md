@@ -1,3 +1,10 @@
+Current Technology
+![image](https://github.com/Talk2David1/IBM_Data_Analysis_Assignment-Dashboards/assets/107730513/b60cb456-ec88-4dbb-802c-6ef673be36bc)
+Future Technology
+![image](https://github.com/Talk2David1/IBM_Data_Analysis_Assignment-Dashboards/assets/107730513/aadfc707-2845-4df5-856d-836b5a026a8f)
+Demographics
+![image](https://github.com/Talk2David1/IBM_Data_Analysis_Assignment-Dashboards/assets/107730513/9ed5b597-a6e0-440e-83b2-b7e2f91fb271)
+
 # Data-Analyst-Capstone-Project-IBM
 IBM Data Analyst Professional Capstone project
 
